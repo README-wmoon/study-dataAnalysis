@@ -400,4 +400,25 @@ Response: 고객이 마지막 캠페인에서 제안을 수락한 경우 1, 그�
 >> NumWebPurchases: 회사 웹사이트를 통해 이루어진 구매 횟수  
 NumCatalogPurchases: 카탈로그를 사용하여 구매한 횟수  
 NumStorePurchases: 매장에서 직접 구매한 횟수  
-NumWebVisitsMonth: 지난 달 회사 웹사이트 방문 횟수  
+NumWebVisitsMonth: 지난 달 회사 웹사이트 방문 횟수
+
+
+### Visualization (시각화)
+
+<img src="https://github.com/README-wmoon/study-dataAnalysis/assets/129862668/8b1ff651-0607-4a80-b4f4-ae3124c00fab" width="600" style="margin-left:0">
+<img src="https://github.com/README-wmoon/study-dataAnalysis/assets/129862668/4f5e8892-ab02-4f3a-977f-f487040af9d4" width="600" style="margin-left:0">
+<img src="https://github.com/README-wmoon/study-dataAnalysis/assets/129862668/64709aa7-586d-4c0a-9e5a-522ee6422b3d" width="600" style="margin-left:0">
+  
+##### 범주형(상품 카테고리: 생활용품, 전자제품, 의류, 학생 수준: High, Medium, Low, 측정년도: 2021, 2022, ...)
+- 바이올린 차트
+- 스캐터 플롯
+- 막대 차트
+- 누적 막대 차트
+  
+##### 수치형(학번: 1, 2,..., 구매 횟수: 157, 789, ..., 가격: 1280.15648, ..., 식물의 높이: 10.251, ...)
+- 막대 차트(숫자가 적을 경우)
+- 선 그래프(숫자거 많을 경우)
+- 바이올린 차트
+- 스캐터 플롯
+- 히스토그램
+- KDE
